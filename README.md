@@ -1,2 +1,10 @@
 # 21sh
-Le Retour De La Vengeance
+
+## Description
+
+recreate a shell with the following features:
+- Pipes
+- Redirections
+- And and Or
+- Builtins
+- Line Editing

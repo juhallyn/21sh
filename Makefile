@@ -13,7 +13,7 @@
 
 NAME = 21sh
 
-FLAGS += -Wall -Wextra -Werror -I Includes
+FLAGS += -Wall -Wextra -I Includes
 
 SANITIZE += -g3 -fsanitize=address
 
